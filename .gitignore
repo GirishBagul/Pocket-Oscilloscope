@@ -1,0 +1,47 @@
+# Arduino build files
+*.ino.*
+*.hex
+*.elf
+*.bin
+*.eep
+*.map
+*.d
+*.o
+
+# Arduino backup files
+*.bak
+*.tmp
+*.orig
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# MacOS
+.DS_Store
+
+# Logs and debug files
+*.log
+
+# Serial monitor output
+output.txt
+
+# Python virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# Compiled Java files (if using Processing)
+*.class
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# OS generated files
+Thumbs.db
